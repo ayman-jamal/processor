@@ -1,5 +1,6 @@
 ### **Technical Report for Processor Execution Simulator**
 
+[Watch the video on YouTube](https://youtu.be/SnRED58K6mk?si=dwf_eYn6WlyoJ19Y)
 ---
 
 ### **Introduction**
@@ -108,7 +109,6 @@ The **Processor Execution Simulator** models a multi-processor system handling t
 - **High Cohesion:**  
   Each class has a single, well-defined responsibility. For example, the Processor class manages task assignments and execution, while the Scheduler focuses only on task scheduling.
 
-[Watch the video on YouTube](https://youtu.be/SnRED58K6mk?si=dwf_eYn6WlyoJ19Y)
 
 
 ### **Conclusion**
